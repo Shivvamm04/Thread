@@ -11,7 +11,7 @@ public class Thread1
         obj3.start();
         obj1.start();
         obj2.start();
-        trd.start();
+        // trd.start();
     }
 }
 class Mlt1 extends Thread{
